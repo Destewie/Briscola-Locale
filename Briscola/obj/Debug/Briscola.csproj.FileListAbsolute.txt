@@ -1,0 +1,46 @@
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.exe.config
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.exe
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.pdb
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csprojResolveAssemblyReference.cache
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmTavolo.resources
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.Properties.Resources.resources
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csproj.GenerateResource.cache
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csproj.CoreCompileInputs.cache
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.exe
+Y:\1) Scuola\Superiori\4 superiore\Informatica\C#\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.pdb
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.exe.config
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.exe
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.pdb
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmTavolo.resources
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.Properties.Resources.resources
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csproj.GenerateResource.cache
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.exe
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.pdb
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmGiocatori.resources
+Y:\2) Progettini carini del Des\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmFinePartita.resources
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.exe.config
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.exe
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.pdb
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmFinePartita.resources
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmGiocatori.resources
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmTavolo.resources
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.Properties.Resources.resources
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csproj.GenerateResource.cache
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.exe
+Y:\2) Progettini carini del Des\4 Superiore\4 Superiore\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.pdb
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.exe
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\bin\Debug\Briscola.pdb
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmFinePartita.resources
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmGiocatori.resources
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.frmTavolo.resources
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.Properties.Resources.resources
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csproj.GenerateResource.cache
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.exe
+Y:\2) Progettini carini del Des\5 Superiore\7) Briscola\Locale\2018.06.08 Briscola\Briscola\obj\Debug\Briscola.pdb
